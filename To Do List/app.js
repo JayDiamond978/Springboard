@@ -1,9 +1,7 @@
 function loadPreservedData() {
     const toDoList = document.querySelector("section > header");
     const previousTasks = localStorage.getItem("saveCount");
-    //const previousTasksList = [];
     for (let i = 0; i < parseInt(previousTasks); i++ ) {
-        //previousTasksList.push(JSON.parse(localStorage.getItem(`${i}`)));
         let previousTask = JSON.parse(localStorage.getItem(`${i}`));
 
         //Section
