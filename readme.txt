@@ -1,1 +1,1 @@
-This is a repo for all of my SpringBoard Assignments
+This is a repo for all of my SpringBoard exercises
