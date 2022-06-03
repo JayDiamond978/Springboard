@@ -1,0 +1,21 @@
+1. Create a local repository and add and commit some files
+	git init
+	touch githubExercise.txt
+	git add githubExercise.txt
+	git commit -m "local push"	
+
+2. Create a remote repository and push your code from the local repo to the remote
+	git init
+	git remote add origin https://github.com/JayDiamond978/Springboard.git
+	tocu textFileOne.txt
+	git add textFileOne.txt
+	git push -u origin main
+
+3. Create a local branch and add and commit some files
+	git checkout -d branchone
+	touch textFileInSomeBranch.txt
+	git add textFileInSomeBranch.txt
+	git commit -m "created local branch and commited a file" 
+
+4. Push that local branch to GitHub to create a remote branch
+
