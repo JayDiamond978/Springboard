@@ -99,7 +99,7 @@ Examples:
 */
 
 function hasCertainValue(arr, key, searchValue) {
-    const checkKeyValue = arr.every((obj) => {
+    const checkKeyValue = arr.every ((obj) => {
         return obj[key] === searchValue;
     })
     return checkKeyValue;
