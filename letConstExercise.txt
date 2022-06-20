@@ -1,0 +1,12 @@
+What is the difference between var and let?
+	Var allows you to redeclare variables and let doesn't
+	Var is function scope, let is block scope
+
+What is the difference between var and const?
+	Var allows redeclaration of variables and const doesn't
+
+What is the difference between let and const?
+	Let allows you to reassign and const doesn't
+
+What is hoisting?
+	Variables that are called are used even though they are initialized later in the script.
