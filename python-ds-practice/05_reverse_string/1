@@ -1,0 +1,12 @@
+def reverse_string(phrase):
+    """Reverse string,
+
+        >>> reverse_string('awesome')
+        'emosewa'
+
+        >>> reverse_string('sauce')
+        'ecuas'
+    """
+    reversedArray = [ltr for ltr in phrase[:-1]]
+
+print(reverse_string("ChangPie"))

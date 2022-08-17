@@ -1,0 +1,16 @@
+cat
+porcupine
+dog
+# Veggies
+
+kale
+parsnips
+
+# Fruits
+
+apple
+mango
+
+#food
+meatballs
+pizza
